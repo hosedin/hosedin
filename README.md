@@ -7,16 +7,31 @@
 
 * I recreated the printf function and Linux Shell with 2 different groups. Thanks to the school learning approach we learned to work collaboratively, in person and remotely.
 
+### My Porfolio project
 * For my portfolio project, I worked with a peer on a mobile application.
 It’s an X.. application, built with swift and X..
 We learned how to be organised to deliver a working MVC in a manner of a few weeks…
 
-* If you want to reach out to me, you can message me on:
+
+#### If you want to reach out to me, you can message me on:
   - [LinkedIn](https://www.linkedin.com)
   - [Twitter](https://www.twitter.com)
 
-* My latest Medium articles:
-http://medium.com/feed/@[edin93]
+#### My latest Medium articles:
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
+
+### Languages and Tools
+* In my previous projects, I worked with the following technologies:
+https://raw.githubusercontent.com/iconic/open-iconic/master/svg/c.svg
+https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linux.svg
+https://raw.githubusercontent.com/iconic/open-iconic/master/svg/python.svg
+https://raw.githubusercontent.com/iconic/open-iconic/master/svg/flask.svg
+https://raw.githubusercontent.com/iconic/open-iconic/master/svg/sql.svg
+https://raw.githubusercontent.com/iconic/open-iconic/master/svg/html.svg
+https://raw.githubusercontent.com/iconic/open-iconic/master/svg/css.svg
+https://raw.githubusercontent.com/iconic/open-iconic/master/svg/javascript.svg
+
 
 <!--
 **hosedin/hosedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
