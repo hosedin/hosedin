@@ -12,8 +12,8 @@ It’s an X.. application, built with swift and X..
 We learned how to be organised to deliver a working MVC in a manner of a few weeks…
 
 * If you want to reach out to me, you can message me on:
-- LinkedIn
-- Twitter
+  - LinkedIn
+  - Twitter
 
 
 
