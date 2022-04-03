@@ -23,14 +23,14 @@ We learned how to be organised to deliver a working MVC in a manner of a few wee
 
 ### Languages and Tools
 * In my previous projects, I worked with the following technologies:
-https://raw.githubusercontent.com/iconic/open-iconic/master/svg/c.svg
-https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linux.svg
-https://raw.githubusercontent.com/iconic/open-iconic/master/svg/python.svg
-https://raw.githubusercontent.com/iconic/open-iconic/master/svg/flask.svg
-https://raw.githubusercontent.com/iconic/open-iconic/master/svg/sql.svg
-https://raw.githubusercontent.com/iconic/open-iconic/master/svg/html.svg
-https://raw.githubusercontent.com/iconic/open-iconic/master/svg/css.svg
-https://raw.githubusercontent.com/iconic/open-iconic/master/svg/javascript.svg
+![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/c.svg)
+![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linux.svg)
+![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/python.svg)
+![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/flask.svg)
+![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/sql.svg)
+![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/html.svg)
+![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/css.svg)
+![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/javascript.svg)
 
 
 <!--
