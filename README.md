@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### My Story
+* Hello! I'm X and currently a student in @Holberton School LILLE | PARIS | LAVAL 🇫🇷. I'd be finishing my studies in X months and I'm looking for an internship in WebDev | Blockchain | etc…". |  I’m very interested in game development and VR platforms.
+
+
 <!--
 **hosedin/hosedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
