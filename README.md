@@ -16,7 +16,6 @@ We learned how to be organised to deliver a working MVC in a manner of a few wee
   - [Twitter](https://www.twitter.com)
 
 * My latest Medium articles:
-http://medium.com/feed/@[edin93]
 
 <!--
 **hosedin/hosedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
