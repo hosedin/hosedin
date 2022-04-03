@@ -24,6 +24,8 @@ We learned how to be organised to deliver a working MVC in a manner of a few wee
 ### Languages and Tools
 * In my previous projects, I worked with the following technologies:
 ![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/c.svg)
+<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/c.svg" />
+<!--
 ![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linux.svg)
 ![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/python.svg)
 ![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/flask.svg)
@@ -31,7 +33,7 @@ We learned how to be organised to deliver a working MVC in a manner of a few wee
 ![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/html.svg)
 ![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/css.svg)
 ![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/javascript.svg)
-
+-->
 
 <!--
 **hosedin/hosedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
