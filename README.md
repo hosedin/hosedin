@@ -23,17 +23,15 @@ We learned how to be organised to deliver a working MVC in a manner of a few wee
 
 ### Languages and Tools
 * In my previous projects, I worked with the following technologies:
-![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/c.svg)
-<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/c.svg" />
-<!--
-![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linux.svg)
-![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/python.svg)
-![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/flask.svg)
-![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/sql.svg)
-![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/html.svg)
-![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/css.svg)
-![alt text](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/javascript.svg)
--->
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+
 
 <!--
 **hosedin/hosedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
