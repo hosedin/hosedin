@@ -20,6 +20,11 @@ We learned how to be organised to deliver a working MVC in a manner of a few wee
 #### My latest Medium articles:
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [A Spotify UX Case Study](https://medium.com/@edin93/a-spotify-ux-case-study-4f53c965e03?source=rss-9b3dd35ce61f------2)
+- [My Holberton school portfolio project story](https://medium.com/@edin93/my-holberton-school-portfolio-project-story-f53f1a0d8334?source=rss-9b3dd35ce61f------2)
+- [A Postmortem Project Example](https://medium.com/@edin93/a-postmortem-project-example-edb8d4a7ac43?source=rss-9b3dd35ce61f------2)
+- [What happens when you type holbertonschool.com in your browser and press ENTER](https://medium.com/@edin93/what-happens-when-you-type-holbertonschool-com-in-your-browser-and-press-enter-96bcb454637b?source=rss-9b3dd35ce61f------2)
+- [A beautiful introductory story about Artificial Intelligence and machine learning for beginners…](https://medium.com/@edin93/a-beautiful-introductory-story-about-artificial-intelligence-and-machine-learning-for-beginners-da5e70fcfd17?source=rss-9b3dd35ce61f------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ### Languages and Tools
