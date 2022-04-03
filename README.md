@@ -18,6 +18,7 @@ We learned how to be organised to deliver a working MVC in a manner of a few wee
   - [Twitter](https://www.twitter.com)
 
 #### My latest Medium articles:
+
 <!-- MEDIUM-STORY-LIST:START -->
 <!-- MEDIUM-STORY-LIST:END -->
 
